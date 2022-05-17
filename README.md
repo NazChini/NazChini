@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazneen Chinikamwala</h1>
+<h1 align="center">Hi 👋, I'm Nazneen Oomatia</h1>
 <h3 align="center">A passionate full stack developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/nazchini" target="blank"><img src="https://img.shields.io/twitter/follow/nazchini?logo=twitter&style=for-the-badge" alt="nazchini" /></a> </p>
