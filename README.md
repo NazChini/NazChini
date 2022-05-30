@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nazneen Oomatia</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
+<h3 align="center">A Software Engineer with a background in architecture</h3>
 
 <p align="left"> <a href="https://twitter.com/nazchini" target="blank"><img src="https://img.shields.io/twitter/follow/nazchini?logo=twitter&style=for-the-badge" alt="nazchini" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **Vue.js and Nuxt.js**
 
 - 📫 How to reach me **naz.chini@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nazneen-chinikamwala/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nazneen-oomatia/)
 
 - ⚡ Fun fact **I am a trained architect in love with the frontend <3**
 
