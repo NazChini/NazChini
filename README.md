@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Nuxt.js**
 
-- 📫 How to reach me **naz.chini@gmail.com**
+- 📫 How to reach me **nazneen.oomatia@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nazneen-oomatia/)
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nazchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazchini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nazneen-chinikamwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazneen-chinikamwala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nazneen-oomatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazneen-oomatia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
