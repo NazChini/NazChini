@@ -2,7 +2,7 @@
 
 
 - 💻 Currently developing the [Zalook App](https://github.com/NazChini/zalook) using Node.js, Vue.js, MongoDB Atlas and Docker.
-- 📝 I am currently learning Nuxt.js and MongoDB Aggregation.
+- 📝 I am currently learning Nuxt.js and MongoDB Aggregation at the Coyotiv School of Software Engineering.
 - 🧘🏻‍♀️ I love baking, cycling and rainy days.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/NazChini) and [LinkedIn](https://www.linkedin.com/in/nazneen-oomatia).
 
@@ -34,6 +34,7 @@
   <a href="https://github.com/NazChini/Space-Travel">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=Space-Travel&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
 </a>
+</p>
   
 ## Recent articles on Hashnode
   
