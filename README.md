@@ -41,4 +41,4 @@
 - [Git: Time travelling & Undoing Changes](https://nazneen.hashnode.dev/git-time-travelling-and-undoing-changes)
 <!-- BLOG-POST-LIST:END -->
 
-![bottom2](https://user-images.githubusercontent.com/89296394/171047918-5bb226f1-74c3-4674-b90b-591096c9e8b3.png)
+![end](https://user-images.githubusercontent.com/89296394/171047918-5bb226f1-74c3-4674-b90b-591096c9e8b3.png)
