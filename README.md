@@ -27,12 +27,12 @@
    <br/>
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/89296394/171044618-bb7a294d-98f2-492e-92ac-3ab4881acf03.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/89296394/162204879-bb3b1e64-f67a-451e-94c3-11898c728352.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/89296394/171389620-1adb7d97-abc7-40da-baf4-59a2a654ce17.jpeg" />
   <a href="https://github.com/NazChini/zalook">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=zalook&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=A17702" />
 </a>  
-  <a href="https://github.com/NazChini/Scrimba/tree/main/Color_Generator">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=Scrimba&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
+  <a href="https://github.com/NazChini/Space-Travel">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=Space-Travel&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
 </a>
   
 ## Recent articles on Hashnode
