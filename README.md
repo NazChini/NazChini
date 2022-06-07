@@ -40,6 +40,7 @@
   
 <!-- BLOG-POST-LIST:START -->
 - [Git: Time travelling & Undoing Changes](https://nazneen.hashnode.dev/git-time-travelling-and-undoing-changes)
+- [Put Your Vue Foot Forward](https://nazneen.hashnode.dev/put-your-vue-foot-forward)
 <!-- BLOG-POST-LIST:END -->
 
 ![end](https://user-images.githubusercontent.com/89296394/171047918-5bb226f1-74c3-4674-b90b-591096c9e8b3.png)
