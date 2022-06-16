@@ -40,8 +40,8 @@
   <a href="https://github.com/nazchini/nuxtstop">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazchini&repo=nuxtstop&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=A17702" />
 </a>  
-  <a href="https://github.com/NazChini/todo-app">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=todo-app&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
+  <a href="https://github.com/nazchini/todo-app">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazchini&repo=todo-app&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
 </a>
 </p>
   
