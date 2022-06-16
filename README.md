@@ -34,6 +34,15 @@
   <a href="https://github.com/NazChini/Space-Travel">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=Space-Travel&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
 </a>
+  
+  <img width="400" src="https://user-images.githubusercontent.com/89296394/173459979-72083395-993c-43f9-a45f-67abd8885ee1.gif" />
+  <img width="400" src="https://user-images.githubusercontent.com/89296394/173684284-535c5b48-191b-4150-9aed-15621b2ceb6b.gif" />
+  <a href="https://github.com/nazchini/nuxtstop">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazchini&repo=nuxtstop&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=A17702" />
+</a>  
+  <a href="https://github.com/NazChini/random-gradient">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NazChini&repo=random-gradient&bg_color=FFF8B9&text_color=140200&title_color=140200&border_color=fff&icon_color=140200" />
+</a>
 </p>
   
 ## Recent articles on Hashnode
